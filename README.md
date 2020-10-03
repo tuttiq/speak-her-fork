@@ -2,13 +2,18 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24555378-b065-47de-a170-46c23cb537de/deploy-status)](https://app.netlify.com/sites/speak-her-br/deploys)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fspeak-her-br.netlify.app)
 
-# SpeakHer
+# SpeakHer Brazil
 
-https://speak-her-br.netlidy.app/
+This repo is a fork of the same project, but for Japan:
+- https://github.com/WWCodeTokyo/speak-her-db
+- https://speakher.jp
+- Credit for the initial version of the project goes to @ann-kilzer, @tuttiq and @yanarchy
 
-SpeakHer is a database of women public speakers. A common excuse we hear from conference and event organizers is how they can't find any women. Let's banish that excuse. Please join our list and make sure that women get fair representation for public speaking engagements.
+https://speak-her-br.netlify.app/
 
-The purpose of gathering this information is so that event organizers can easily search for female speakers and that fellow speakers can connect with and support each other
+SpeakHer BR is a database of women public speakers in Brazil. A common excuse we hear from conference and event organizers is how they can't find any women. Let's banish that excuse. Please join our list and make sure that women get fair representation for public speaking engagements.
+
+The purpose of gathering this information is so that event organizers can easily search for women speakers and that fellow speakers can connect with and support each other
 
 ## How to Contribute
 
