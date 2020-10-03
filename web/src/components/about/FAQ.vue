@@ -18,7 +18,7 @@
         tag="p"
       >
         <a
-          :href="`mailto:${contact}`"
+          :href="contact"
           target="_blank"
         >{{ contact }}</a>
       </i18n>
@@ -32,7 +32,7 @@
 export default {
   data() {
     return {
-      contact: 'speakherjp@gmail.com',
+      contact: 'https://tuttiq.me/contact',
       questions: [
         {
           question: () => this.$t('faq.whyQ'),
