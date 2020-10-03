@@ -34,9 +34,9 @@ Requirements:
 This project uses Airtable as a data source. Follow these steps to configure a database on your local environment:
 
 1. Make a copy of `.env.sample` and rename it to `.env.development`
-2. Create a table on your Airtable account
+2. Register as a contributor of the Airtable development database [cliking here](https://airtable.com/invite/l?inviteId=invAoJbouvb5C5QZK&inviteToken=c48305a76c153129574835def8f4e34f123722cbe27f1007312091f5e485a160)
 3. Get your Airtable API Key on your [Airtable account](https://airtable.com/account)
-4. Get the development database ID on the [DB API Docs](https://airtable.com/api/)
+4. Get the development database ID on the [DB API Docs](https://airtable.com/app5umPHNtFiu2Pns/api/docs#javascript/introduction)
 5. Edit `.env.development` to add your `AIRTABLE_API_KEY` and the development `AIRTABLE_DB_ID`
 
 `.env.development`
@@ -44,11 +44,13 @@ This project uses Airtable as a data source. Follow these steps to configure a d
 NODE_ENV=development
 VUE_APP_AIRTABLE_DB_ID=[dev database ID here]
 VUE_APP_AIRTABLE_API_KEY=[your api key here]
+AIRTABLE_DB_ID=[dev database ID here]
+AIRTABLE_API_KEY=[your api key here]
 ```
 
 You can change other DB configs on `/plugins/airtable.js`.
 
-Further information on the database schema and query documentation [here](https://airtable.com/api) (login with the account you registered on step 2).
+Further information on the database schema and query documentation [here](https://airtable.com/app5umPHNtFiu2Pns/api/docs#javascript/introduction) (login with the account you registered on step 2).
 
 
 ### Running the app
