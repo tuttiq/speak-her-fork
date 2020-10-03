@@ -52,12 +52,12 @@
         "pronouns": "Pronouns: {0}"
     },
     "footer": {
-        "dateString": "2020 SpeakHer Project",
+        "dateString": "2020 SpeakHer BR Project",
         "netlify": "Powered by Netlify"
     },
     "hero": {
         "subtitle": "Your online resource for finding female speakers in Brazil",
-        "title": "SpeakHer"
+        "title": "SpeakHer BR"
     },
     "nav": {
         "findSpeaker": "Find a speaker",
