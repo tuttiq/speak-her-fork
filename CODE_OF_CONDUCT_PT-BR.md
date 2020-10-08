@@ -4,7 +4,7 @@
 
 Um dos principais objetivos do Speak Her DB é ser inclusivo para o maior número de colaboradores, com a mais variada e diversificada formação possível. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou falta dela).
 
-Este código de conduta delineia nossas expectativas para todos aqueles que participam de nossa comunidade, bem como as conseqüências de um comportamento inaceitável.
+Este código de conduta delineia nossas expectativas para todos aqueles que participam de nossa comunidade, bem como as consequências de um comportamento inaceitável.
 
 Convidamos todos aqueles que participam do Speak Her DB para nos ajudar a criar experiências seguras e positivas para todos.
 
@@ -24,7 +24,7 @@ Os seguintes comportamentos são esperados e solicitados de todos os membros da 
  * Exercite consideração e respeito em seu discurso e ações.
  * Tente a colaboração antes do conflito.
  * Abstenha-se de humilhar, discriminar ou assediar comportamentos e discursos.
- * Fique atento ao que te rodeia e seus colegas participantes. Alerte os líderes comunitários se você perceber uma situação perigosa, alguém em perigo ou violações deste Código de Conduta, mesmo que pareçam inconseqüentes.
+ * Fique atento ao que te rodeia e seus colegas participantes. Alerte os líderes comunitários se você perceber uma situação perigosa, alguém em perigo ou violações deste Código de Conduta, mesmo que pareçam inconsequentes.
 
 ## 4. Comportamento Inaceitável
 
@@ -41,7 +41,7 @@ Os seguintes comportamentos são considerados assédio e são inaceitáveis dent
  * Intimidação deliberada, perseguição ou acompanhamento (online ou pessoalmente).
  * Advogar, ou encorajar, qualquer um dos comportamentos acima.
 
-## 5. Conseqüências de um Comportamento Inaceitável
+## 5. Consequências de um Comportamento Inaceitável
 
 O comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
 
