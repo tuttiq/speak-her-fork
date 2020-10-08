@@ -14,9 +14,9 @@ Um objetivo suplementar deste Código de Conduta é estimular o open [source/cul
 
 As comunidades refletem as sociedades nas quais elas existem e a ação positiva é essencial para combater as muitas formas de desigualdade e abusos de poder que existem na nossa sociedade.
 
-Se você vê alguém que está fazendo um esforço extra para assegurar que nossa comunidade seja acolhedora, amigável e encoraja todos os participantes a contribuir ao máximo, conte pra gente!
+Se você vê alguém que está fazendo um esforço extra para assegurar que nossa comunidade seja acolhedora, amigável e encoraja todos os participantes a contribuir ao máximo, queremos o seu feedback.
 
-## 3. Comportamento esperado
+## 3. Comportamento Esperado
 
 Os seguintes comportamentos são esperados e solicitados de todos os membros da comunidade:
 
@@ -30,31 +30,31 @@ Os seguintes comportamentos são esperados e solicitados de todos os membros da 
 
 Os seguintes comportamentos são considerados assédio e são inaceitáveis dentro de nossa comunidade:
 
- * Violência, ameaças de violência ou linguagem violenta dirigida contra outra pessoa.
- * Piadas e linguagem sexista, racista, homofóbica, transfóbica, capaz ou de outra forma discriminatória.
- * Afixação ou exibição de material sexualmente explícito ou violento.
- * Afixar ou ameaçar afixar informações de identificação pessoal ("doxing") de outras pessoas.
- * Insultos pessoais, particularmente aqueles relacionados a gênero, orientação sexual, raça, religião ou deficiência.
+ * Violência, ameaças ou linguagem violenta dirigida contra outra pessoa.
+ * Piadas e comportamento sexista, racista, homofóbica, transfóbica, ou de qualquer outra forma discriminatória.
+ * Post ou exibição de material explícito ou violento.
+ * Postar ou ameaçar postar informações de identificação pessoal ("doxing") de outras pessoas.
+ * Insultos pessoais, particularmente se relacionados ao gênero, orientação sexual, raça, religião ou deficiência.
  * Fotografia ou gravação inapropriada.
  * Contato físico inapropriado. Você deve ter o consentimento de alguém antes de tocá-lo.
  * Atenção sexual indesejada. Isto inclui comentários sexualizados ou piadas; toques inadequados, apalpadelas e avanços sexuais indesejados.
  * Intimidação deliberada, perseguição ou acompanhamento (online ou pessoalmente).
  * Advogar, ou encorajar, qualquer um dos comportamentos acima.
 
-## 5. Conseqüências de Comportamento Inaceitável
+## 5. Conseqüências de um Comportamento Inaceitável
 
 O comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
 
 Espera-se que qualquer pessoa pedida para acabar com comportamentos inaceitáveis cumpra imediatamente.
 
-Se um membro da comunidade se envolver em comportamento inaceitável, os organizadores da comunidade poderão tomar qualquer ação que considerem apropriada, até e incluindo uma proibição temporária ou expulsão permanente da comunidade sem aviso prévio (e sem reembolso no caso de um evento pago).
+Se um membro da comunidade se envolver em um comportamento inaceitável, os organizadores da comunidade poderão tomar qualquer ação que considerem apropriada, incluindo uma proibição temporária ou expulsão permanente da comunidade sem aviso prévio (e sem reembolso no caso de um evento pago).
 
 ## 6. Diretrizes para relatórios
 
-Se você estiver sujeito a ou testemunhar comportamento inaceitável, ou tiver qualquer outra preocupação, favor notificar um organizador comunitário o mais rápido possível a @tuttiq
+Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tiver qualquer outra preocupação, favor notificar um organizador comunitário (@tuttiq) o mais rápido possível.
 
 
-Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se envolverem com a aplicação da lei local ou para ajudar aqueles que experimentam um comportamento inaceitável a se sentirem seguros.
+Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se envolverem com a aplicação da lei local ou para ajudar as vitimas de um comportamento inaceitável a se sentirem seguros.
 
 ## 7. Dirigindo as queixas
 
@@ -76,7 +76,7 @@ speakherjp@gmail.com
 
 O Código de Conduta do Cidadão é distribuído pelo [Stumptown Syndicate](http://stumptownsyndicate.org) sob uma licença [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Partes do texto derivado do [Código de Conduta Django](https://www.djangoproject.com/conduct/) e da [Política Antiassédio do Feminismo Geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Partes do texto vêm do [Código de Conduta Django](https://www.djangoproject.com/conduct/) e da [Política Antiassédio do Feminismo Geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Revisão 2.3. Publicado em 6 de março de 2017._
 
