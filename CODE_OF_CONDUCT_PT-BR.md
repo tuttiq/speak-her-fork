@@ -2,11 +2,11 @@
 
 ## 1. Objetivo
 
-Um dos principais objetivos do Speak Her DB é ser inclusivo para o maior número de colaboradores, com a mais variada e diversificada formação possível. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou falta dela).
+Um dos principais objetivos do Speak Her DB é ser inclusivo para o maior número de colaboradores, com o percurso mais variado e diversificado possível. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou falta dela).
 
 Este código de conduta delineia nossas expectativas para todos aqueles que participam de nossa comunidade, bem como as consequências de um comportamento inaceitável.
 
-Convidamos todos aqueles que participam do Speak Her DB para nos ajudar a criar experiências seguras e positivas para todos.
+Convidamos todos aqueles que participam do Speak Her DB à nos ajudar a criar experiências seguras e positivas para todos.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
@@ -14,7 +14,7 @@ Um objetivo suplementar deste Código de Conduta é estimular o open [source/cul
 
 As comunidades refletem as sociedades nas quais elas existem e a ação positiva é essencial para combater as muitas formas de desigualdade e abusos de poder que existem na nossa sociedade.
 
-Se você vê alguém que está fazendo um esforço extra para assegurar que nossa comunidade seja acolhedora, amigável e encoraja todos os participantes a contribuir ao máximo, queremos o seu feedback.
+Se você vê alguém que está fazendo um esforço extra para assegurar que nossa comunidade seja acolhedora, amigável e encoraja todos os participantes a contribuir ao máximo, não hesite em nos dar seu feedback.
 
 ## 3. Comportamento Esperado
 
@@ -45,7 +45,7 @@ Os seguintes comportamentos são considerados assédio e são inaceitáveis dent
 
 O comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
 
-Espera-se que qualquer pessoa pedida para acabar com comportamentos inaceitáveis cumpra imediatamente.
+Qualquer pessoa que se comporta de maneira inaceitável deve mudar sua conduta imediatamente se alguem lhe pedir.
 
 Se um membro da comunidade se envolver em um comportamento inaceitável, os organizadores da comunidade poderão tomar qualquer ação que considerem apropriada, incluindo uma proibição temporária ou expulsão permanente da comunidade sem aviso prévio (e sem reembolso no caso de um evento pago).
 
