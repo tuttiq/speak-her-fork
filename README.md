@@ -4,7 +4,7 @@
 
 # SpeakHer Brazil
 
-This repo is a fork of the same project, but for Japan:
+This repo is a fork of a Japan project:
 - https://github.com/WWCodeTokyo/speak-her-db
 - https://speakher.jp
 - Credit for the initial version of the project goes to @ann-kilzer, @tuttiq and @yanarchy
