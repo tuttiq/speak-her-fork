@@ -2,11 +2,11 @@
 
 ## 1. Objetivo
 
-Um dos principais objetivos do Speak Her DB é ser inclusivo para o maior número de colaboradores, com o percurso mais variado e diversificado possível. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou falta dela).
+Um dos principais objetivos do Speak Her DB é ser inclusivo para o maior número possível de colaboradores, com os mais variados históricos, perspectivas e identidades. Para isso, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, orientação sexual, habilidade, etnia, status socioeconômico e religião (ou falta dela).
 
-Este código de conduta delineia nossas expectativas para todos aqueles que participam de nossa comunidade, bem como as consequências de um comportamento inaceitável.
+Este código de conduta delineia nossas expectativas para todos aqueles que participam da nossa comunidade, bem como as consequências de um comportamento inaceitável.
 
-Convidamos todos aqueles que participam do Speak Her DB à nos ajudar a criar experiências seguras e positivas para todos.
+Convidamos todos os colaboradores do Speak Her DB à nos ajudar a criar experiências seguras e positivas para todos.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
@@ -14,24 +14,24 @@ Um objetivo suplementar deste Código de Conduta é estimular o open [source/cul
 
 As comunidades refletem as sociedades nas quais elas existem e a ação positiva é essencial para combater as muitas formas de desigualdade e abusos de poder que existem na nossa sociedade.
 
-Se você vê alguém que está fazendo um esforço extra para assegurar que nossa comunidade seja acolhedora, amigável e encoraja todos os participantes a contribuir ao máximo, não hesite em nos dar seu feedback.
+Se você vir alguém que está fazendo um esforço extra para garantir que nossa comunidade seja acolhedora, amigável e encorajando todos os participantes a contribuir ao máximo, conte pra gente!
 
 ## 3. Comportamento Esperado
 
 Os seguintes comportamentos são esperados e solicitados de todos os membros da comunidade:
 
  * Participar de uma forma autêntica e ativa. Fazendo isto, você contribui para a saúde e longevidade desta comunidade.
- * Exercite consideração e respeito em seu discurso e ações.
- * Tente a colaboração antes do conflito.
- * Abstenha-se de humilhar, discriminar ou assediar comportamentos e discursos.
- * Fique atento ao que te rodeia e seus colegas participantes. Alerte os líderes comunitários se você perceber uma situação perigosa, alguém em perigo ou violações deste Código de Conduta, mesmo que pareçam inconsequentes.
+ * Exercitar consideração e respeito no seu discurso e em suas ações.
+ * Tentar a colaboração antes do conflito.
+ * Evitar comportamentos e discursos de humilhação, discriminação ou assédio.
+ * Ficar atento ao ambiente e aos colegas ao seu redor. Alerte os líderes da comunidade se você perceber uma situação de risco, alguém que possa estar sofrendo uma ou quaisquer violações deste Código de Conduta, mesmo que não lhe pareçam ter consequências.
 
 ## 4. Comportamento Inaceitável
 
 Os seguintes comportamentos são considerados assédio e são inaceitáveis dentro de nossa comunidade:
 
  * Violência, ameaças ou linguagem violenta dirigida contra outra pessoa.
- * Piadas e comportamento sexista, racista, homofóbica, transfóbica, ou de qualquer outra forma discriminatória.
+ * Piadas e comportamento sexista, racista, homofóbico, transfóbico, ou de qualquer outra forma discriminatória.
  * Post ou exibição de material explícito ou violento.
  * Postar ou ameaçar postar informações de identificação pessoal ("doxing") de outras pessoas.
  * Insultos pessoais, particularmente se relacionados ao gênero, orientação sexual, raça, religião ou deficiência.
@@ -45,20 +45,20 @@ Os seguintes comportamentos são considerados assédio e são inaceitáveis dent
 
 O comportamento inaceitável de qualquer membro da comunidade, incluindo patrocinadores e aqueles com autoridade decisória, não será tolerado.
 
-Qualquer pessoa que se comporta de maneira inaceitável deve mudar sua conduta imediatamente se alguem lhe pedir.
+Qualquer pessoa que se comportar de maneira inaceitável deve mudar sua conduta imediatamente se alguem lhe pedir.
 
 Se um membro da comunidade se envolver em um comportamento inaceitável, os organizadores da comunidade poderão tomar qualquer ação que considerem apropriada, incluindo uma proibição temporária ou expulsão permanente da comunidade sem aviso prévio (e sem reembolso no caso de um evento pago).
 
 ## 6. Diretrizes para relatórios
 
-Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tiver qualquer outra preocupação, favor notificar um organizador comunitário (@tuttiq) o mais rápido possível.
+Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tiver qualquer outra preocupação, favor notificar um organizador da comunidade (@tuttiq) o mais rápido possível.
 
 
 Além disso, os organizadores da comunidade estão disponíveis para ajudar os membros da comunidade a se envolverem com a aplicação da lei local ou para ajudar as vitimas de um comportamento inaceitável a se sentirem seguros.
 
 ## 7. Dirigindo as queixas
 
-Se você sentir que foi falsamente ou injustamente acusado de violar este Código de Conduta, você deve notificar a WWCodeTokyo com uma descrição concisa de sua reclamação. Sua reclamação será tratada de acordo com nossas políticas de governo existentes. [Política](https://www.womenwhocode.com/codeofconduct)
+Se você sentir que foi falsamente ou injustamente acusado de violar este Código de Conduta, você deve notificar os organizadores da comunidade (@tuttiq) com uma descrição concisa de sua reclamação. Sua reclamação será avaliada conforme este Código de Conduta.
 
 
 ## 8. Escopo
@@ -69,7 +69,7 @@ Este código de conduta e seus procedimentos relacionados também se aplicam a c
 
 ## 9. Informações de contato
 
-speakherjp@gmail.com
+https://tuttiq.me/contact
 
 
 ## 10. Licença e atribuição
@@ -86,8 +86,3 @@ _Revisão 2.1. Colocado em 23 de junho de 2014._ _Revisão
 
 _Revisão 2.0, adotada pela diretoria do [Stumptown Syndicate](http://stumptownsyndicate.org) em 10 de janeiro de 2013. Colocado em 17 de março de 2013._
 
-## 11. Adendo
-
-Qualquer evento pessoalmente organizado através do Código Women Who, incluindo eventos relacionados ao projeto SpeakHer, são cobertos pelo Código Women Who [Código de Conduta] (https://www.womenwhocode.com/codeofconduct).
-
-Eventos de terceiros organizados por usuários do [Website SpeakHer](https://speakher.jp) podem ter suas próprias regras comunitárias. No escopo de um Evento SpeakHer onde um palestrante foi selecionado do Speak Her DB, pedimos gentilmente que o palestrante seja tratado de acordo com as expectativas deste Código de Conduta.
